@@ -1,5 +1,6 @@
 
----
+---![tengrai_image_1709498452_5622673](https://github.com/moisiFerenc/Logistic-Regression-and-Hypotesis-Analysis-of-Sales-Data-for-Predicting-High-Profits/assets/78962708/49cd6744-0ec3-4266-a3db-283d44e82858)
+
 
 # Europe Sales Records Analysis
 
